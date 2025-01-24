@@ -1,4 +1,4 @@
-﻿The Project Gutenberg eBook of L'esprit impur, by Auguste Gilbert de
+﻿The Project Gutenberg EBook of L'esprit impur, by Auguste Gilbert de
 Voisins
 
 This eBook is for the use of anyone anywhere in the United States and
@@ -7,13 +7,13 @@ whatsoever. You may copy it, give it away or re-use it under the terms
 of the Project Gutenberg License included with this eBook or online at
 www.gutenberg.org. If you are not located in the United States, you
 will have to check the laws of the country where you are located before
-using this eBook.
+using this ebook.
 
 Title: L'esprit impur
 
 Author: Auguste Gilbert de Voisins
 
-Release Date: December 22, 2020 [eBook #64091]
+Release Date: December 20, 2020 [EBook #64091]
 
 Language: French
 
@@ -8054,7 +8054,7 @@ performed, viewed, copied or distributed:
   under the terms of the Project Gutenberg License included with this
   eBook or online at www.gutenberg.org. If you are not located in the
   United States, you will have to check the laws of the country where
-  you are located before using this eBook.
+  you are located before using this ebook.
 
 1.E.2. If an individual Project Gutenberg-tm electronic work is
 derived from texts not protected by U.S. copyright law (does not
@@ -8224,9 +8224,9 @@ and permanent future for Project Gutenberg-tm and future
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
+www.gutenberg.org 
 
-Section 3. Information about the Project Gutenberg Literary
+Section 3. Information about the Project Gutenberg Literary 
 Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
@@ -8306,3 +8306,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
